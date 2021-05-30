@@ -1,3 +1,6 @@
 [submodule "CCEC_ConsumerComplaintEmail"]
 	path = CCEC_ConsumerComplaintEmail
 	url = https://github.com/UiPath-LAB-TEC/CCEC_ConsumerComplaintEmail.git
+[submodule "SAAC_SentimentAnalysis"]
+	path = SAAC_SentimentAnalysis
+	url = https://github.com/UiPath-LAB-TEC/SAAC_SentimentAnalysis.git
