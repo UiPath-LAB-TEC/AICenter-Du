@@ -1,0 +1,3 @@
+[submodule "CCEC_ConsumerComplaintEmail"]
+	path = CCEC_ConsumerComplaintEmail
+	url = https://github.com/UiPath-LAB-TEC/CCEC_ConsumerComplaintEmail.git
