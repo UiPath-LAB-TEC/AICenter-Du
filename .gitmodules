@@ -4,3 +4,6 @@
 [submodule "SAAC_SentimentAnalysis"]
 	path = SAAC_SentimentAnalysis
 	url = https://github.com/UiPath-LAB-TEC/SAAC_SentimentAnalysis.git
+[submodule "DU_MasterDemo"]
+	path = DU_MasterDemo
+	url = https://github.com/UiPath-LAB-TEC/DU_MasterDemo.git
